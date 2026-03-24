@@ -59,7 +59,7 @@ Microsoft Excel – Data Cleaning, Pivot Tables, Dashboard Design
 Data Visualization – Charts and KPI Tracking
 
 ## 📁 Project File
-📂 [Customer Churn & CLV Analysis](https://github.com/Menorah-Tee/Customer-Churn-and-Retention-Analysis)
+📂[ Download File](https://github.com/Menorah-Tee/Customer-Churn-and-Retention-Analysis/blob/main/Customer%20Churn%20Analysis%20Complete.....xlsx.xlsx)
 
 👋 Connect With Me
 Let’s connect on data, analytics, and insights:
